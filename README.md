@@ -1,3 +1,6 @@
+
+
+
 # simple-java-maven-app
 
 This repository is for the
@@ -14,4 +17,5 @@ you'll be creating yourself during the tutorial and the `scripts` subdirectory
 contains a shell script with commands that are executed when Jenkins processes
 the "Deliver" stage of your Pipeline.
 
+latest version:
 New changes to validate git webhook
