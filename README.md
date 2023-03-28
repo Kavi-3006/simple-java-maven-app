@@ -1,6 +1,7 @@
 
 
 
+
 # simple-java-maven-app
 
 This repository is for the
@@ -18,7 +19,8 @@ contains a shell script with commands that are executed when Jenkins processes
 the "Deliver" stage of your Pipeline.
 
 
-latest version1:
+
+latest version:
 New changes to validate git webhook-jenkins
 
 
