@@ -1,7 +1,3 @@
-
-
-
-
 # simple-java-maven-app
 
 This repository is for the
@@ -20,9 +16,9 @@ the "Deliver" stage of your Pipeline.
 
 
 
-latest version:
+Test version:
 New changes to validate git webhook-jenkins
-
+Hello Jenkins 
 
 
 
